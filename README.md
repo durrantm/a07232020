@@ -8,6 +8,8 @@ I now want to store all the 15 days of weather data and then retrieve it - start
 So far I can't getr anything to display.
 Perhaps I am not reaching deep enough into the objects, or perhaps my array for useEffect isn't set right.
 
+I'd prefer not sharing my API keys if possible.
+
 Notes:
 
 App.js

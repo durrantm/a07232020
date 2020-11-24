@@ -12,10 +12,10 @@ Notes:
 
 App.js
 
-Line# Note
- 18   State Object
- 37   The API call for temps
- 83   Storing data in an array - works
- 90   Storing daat in an object - not working
- 93   Issue
-191   Can't map on an object this way.
+    Line# Note
+     18   State Object
+     37   The API call for temps
+     83   Storing data in an array - works
+     90   Storing daat in an object - not working
+     93   Issue
+    191   Can't map on an object this way.
